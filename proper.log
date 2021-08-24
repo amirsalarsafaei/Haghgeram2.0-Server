@@ -1,0 +1,19 @@
+2021-08-25 03:35:44.754 [main] INFO  com.SalarJavaDevGroup.ManageDB.ManageTokens - fetched all tokens
+2021-08-25 03:35:49.579 [main] INFO  com.SalarJavaDevGroup.ClientAgent - /127.0.0.1 connected to server
+2021-08-25 03:35:49.972 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:50.045 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza requested timeline
+2021-08-25 03:35:52.747 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:52.754 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageTweet - fetched tweets with id 544
+2021-08-25 03:35:52.769 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza request tweet 544 comments
+2021-08-25 03:35:52.891 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:52.895 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageTweet - fetched tweets with id 544
+2021-08-25 03:35:52.903 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza request tweet 544 comments
+2021-08-25 03:35:54.653 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:54.684 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza requested timeline
+2021-08-25 03:35:55.510 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:55.556 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza requested timeline
+2021-08-25 03:35:57.972 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageUser - Fetched users with id 522
+2021-08-25 03:35:57.976 [Thread-1] INFO  com.SalarJavaDevGroup.ManageDB.ManageTweet - fetched tweets with id 544
+2021-08-25 03:35:57.993 [Thread-1] INFO  com.SalarJavaDevGroup.Applications.Tweets - User reza request tweet 544 comments
+2021-08-25 03:36:03.066 [Thread-1] ERROR com.SalarJavaDevGroup.StreamHandler.StreamHandler - Couldn't read a request
+2021-08-25 03:36:03.066 [Thread-1] INFO  com.SalarJavaDevGroup.StreamHandler.StreamHandler - 127.0.0.1 disconnected from server
